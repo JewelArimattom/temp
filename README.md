@@ -1,4 +1,4 @@
-![MasterHead](https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg)
+![MasterHead](https://images.wallpapersden.com/image/download/night-coding-landscape-sunset_bWxubW2UmZqaraWkpJRmZWZmaa1qamtn.jpg)
 <h1 align="center">Hi 👋, I'm Jewel Thomas</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
